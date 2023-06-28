@@ -3,8 +3,7 @@
 2. You need to trust a third party app all your data
 3. You need Google Drive or One Drive
 4. The aim of this guide is to save your Markdown files and media in the cloud and edit it from your smartphone or tablet without any extra costs.
-5. The authors of this guide are not responsible for possible damages of any kind.
-<br>
+5. The authors of this guide are not responsible for possible damages of any kind.  
 ## Setup (Google Drive - mirror files - Windows and Android)
 In this guide I will use Google Drive as my cloud storage service, a Windows machine as PC, an Android smartphone and *Autosync for Google Drive*.
 1. Download [Google Drive for Desktop](https://www.google.com/drive/download/) and follow the setup instructions.
